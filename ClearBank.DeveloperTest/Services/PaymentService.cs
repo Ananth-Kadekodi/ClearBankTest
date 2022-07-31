@@ -6,12 +6,14 @@ namespace ClearBank.DeveloperTest.Services
 {
     public class PaymentService : IPaymentService
     {
+
         public MakePaymentResult MakePayment(MakePaymentRequest request)
         {
             var dataStoreType = ConfigurationManager.AppSettings["DataStoreType"];
 
             Account account = null;
 
+            // Get Account Method
             if (dataStoreType == "Backup")
             {
                 var accountDataStore = new BackupAccountDataStore();
