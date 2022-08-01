@@ -1,0 +1,13 @@
+C:\tmp\ClearBankTest\ClearBank.DeveloperTest.Tests\bin\Debug\netcoreapp3.1\ClearBank.DeveloperTest.Tests.deps.json
+C:\tmp\ClearBankTest\ClearBank.DeveloperTest.Tests\bin\Debug\netcoreapp3.1\ClearBank.DeveloperTest.Tests.dll
+C:\tmp\ClearBankTest\ClearBank.DeveloperTest.Tests\bin\Debug\netcoreapp3.1\ClearBank.DeveloperTest.Tests.pdb
+C:\tmp\ClearBankTest\ClearBank.DeveloperTest.Tests\bin\Debug\netcoreapp3.1\ClearBank.DeveloperTest.dll
+C:\tmp\ClearBankTest\ClearBank.DeveloperTest.Tests\bin\Debug\netcoreapp3.1\ClearBank.DeveloperTest.pdb
+C:\tmp\ClearBankTest\ClearBank.DeveloperTest.Tests\obj\Debug\netcoreapp3.1\ClearBank.DeveloperTest.Tests.csproj.AssemblyReference.cache
+C:\tmp\ClearBankTest\ClearBank.DeveloperTest.Tests\obj\Debug\netcoreapp3.1\ClearBank.DeveloperTest.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\tmp\ClearBankTest\ClearBank.DeveloperTest.Tests\obj\Debug\netcoreapp3.1\ClearBank.DeveloperTest.Tests.AssemblyInfoInputs.cache
+C:\tmp\ClearBankTest\ClearBank.DeveloperTest.Tests\obj\Debug\netcoreapp3.1\ClearBank.DeveloperTest.Tests.AssemblyInfo.cs
+C:\tmp\ClearBankTest\ClearBank.DeveloperTest.Tests\obj\Debug\netcoreapp3.1\ClearBank.DeveloperTest.Tests.csproj.CoreCompileInputs.cache
+C:\tmp\ClearBankTest\ClearBank.DeveloperTest.Tests\obj\Debug\netcoreapp3.1\ClearBank.DeveloperTest.Tests.csproj.CopyComplete
+C:\tmp\ClearBankTest\ClearBank.DeveloperTest.Tests\obj\Debug\netcoreapp3.1\ClearBank.DeveloperTest.Tests.dll
+C:\tmp\ClearBankTest\ClearBank.DeveloperTest.Tests\obj\Debug\netcoreapp3.1\ClearBank.DeveloperTest.Tests.pdb

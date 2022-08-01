@@ -6,7 +6,7 @@ namespace ClearBank.DeveloperTest.Services
     {
         private const string DataStoreType = "Backup";
 
-        public IAccountDataStore Create(string dataStoreType)
+        public IAccountDataStore RetrieveAccountDataStore(string dataStoreType)
         {
             if (dataStoreType.Equals(DataStoreType))
             {

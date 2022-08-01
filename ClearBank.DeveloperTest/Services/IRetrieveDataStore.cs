@@ -4,6 +4,6 @@ namespace ClearBank.DeveloperTest.Services
 {
     public interface IRetrieveDataStore
     {
-        IAccountDataStore Create(string dataStoreType);
+        IAccountDataStore RetrieveAccountDataStore(string dataStoreType);
     }
 }

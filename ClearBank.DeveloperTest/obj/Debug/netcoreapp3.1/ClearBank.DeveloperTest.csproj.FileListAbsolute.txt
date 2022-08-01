@@ -1,0 +1,10 @@
+C:\tmp\ClearBankTest\ClearBank.DeveloperTest\bin\Debug\netcoreapp3.1\ClearBank.DeveloperTest.deps.json
+C:\tmp\ClearBankTest\ClearBank.DeveloperTest\bin\Debug\netcoreapp3.1\ClearBank.DeveloperTest.dll
+C:\tmp\ClearBankTest\ClearBank.DeveloperTest\bin\Debug\netcoreapp3.1\ClearBank.DeveloperTest.pdb
+C:\tmp\ClearBankTest\ClearBank.DeveloperTest\obj\Debug\netcoreapp3.1\ClearBank.DeveloperTest.csproj.AssemblyReference.cache
+C:\tmp\ClearBankTest\ClearBank.DeveloperTest\obj\Debug\netcoreapp3.1\ClearBank.DeveloperTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\tmp\ClearBankTest\ClearBank.DeveloperTest\obj\Debug\netcoreapp3.1\ClearBank.DeveloperTest.AssemblyInfoInputs.cache
+C:\tmp\ClearBankTest\ClearBank.DeveloperTest\obj\Debug\netcoreapp3.1\ClearBank.DeveloperTest.AssemblyInfo.cs
+C:\tmp\ClearBankTest\ClearBank.DeveloperTest\obj\Debug\netcoreapp3.1\ClearBank.DeveloperTest.csproj.CoreCompileInputs.cache
+C:\tmp\ClearBankTest\ClearBank.DeveloperTest\obj\Debug\netcoreapp3.1\ClearBank.DeveloperTest.dll
+C:\tmp\ClearBankTest\ClearBank.DeveloperTest\obj\Debug\netcoreapp3.1\ClearBank.DeveloperTest.pdb
