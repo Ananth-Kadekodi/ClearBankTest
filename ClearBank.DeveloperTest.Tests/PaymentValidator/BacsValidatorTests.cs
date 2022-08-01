@@ -31,7 +31,7 @@ namespace ClearBank.DeveloperTest.Tests.PaymentValidator
         }
 
         [Test]
-        public void IsNotValidPaymentNullAccount()
+        public void IsNotValidPaymentNullAccountForBacs()
         {
             var validPayment = _bacsValidator.IsValid(_makePaymentRequest, null);
             Assert.IsFalse(validPayment);

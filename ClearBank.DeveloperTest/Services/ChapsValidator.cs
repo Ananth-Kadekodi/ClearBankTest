@@ -6,7 +6,7 @@ namespace ClearBank.DeveloperTest.Services
     {
         public bool IsValid(MakePaymentRequest request, Account account)
         {
-            return account.AllowedPaymentSchemes.HasFlag(AllowedPaymentSchemes.Chaps) &&
+            return account != null && account.AllowedPaymentSchemes.HasFlag(AllowedPaymentSchemes.Chaps) &&
                    account.Status == AccountStatus.Live;
         }
     }
