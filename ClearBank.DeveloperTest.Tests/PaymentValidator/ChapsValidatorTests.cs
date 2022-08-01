@@ -29,7 +29,7 @@ namespace ClearBank.DeveloperTest.Tests.PaymentValidator
         }
 
         [Test]
-        public void IsNotValidPaymentNullAccountForChaps()
+        public void IsInValidPaymentNullAccountForChaps()
         {
             var validPayment = _chapsValidator.IsValid(_makePaymentRequest, null);
             Assert.IsFalse(validPayment);
@@ -37,17 +37,16 @@ namespace ClearBank.DeveloperTest.Tests.PaymentValidator
 
         [TestCase(AllowedPaymentSchemes.Bacs)]
         [TestCase(AllowedPaymentSchemes.FasterPayments)]
-        public void IsNotValidPaymentForNonChapsAccount(AllowedPaymentSchemes allowedPaymentSchemes)
+        public void IsInValidPaymentForNonChapsAccount(AllowedPaymentSchemes allowedPaymentSchemes)
         {
             _account.AllowedPaymentSchemes = allowedPaymentSchemes;
             var validPayment = _chapsValidator.IsValid(_makePaymentRequest, _account);
             Assert.IsFalse(validPayment);
         }
 
-
         [TestCase(AccountStatus.Disabled)]
         [TestCase(AccountStatus.InboundPaymentsOnly)]
-        public void IsNotValidPaymentForNonLivsAccounts(AccountStatus accountStatus)
+        public void IsInValidPaymentForNonLivsAccounts(AccountStatus accountStatus)
         {
             _account.AllowedPaymentSchemes = AllowedPaymentSchemes.Chaps;
             _account.Status = accountStatus;
