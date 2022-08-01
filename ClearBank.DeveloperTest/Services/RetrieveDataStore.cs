@@ -8,7 +8,7 @@ namespace ClearBank.DeveloperTest.Services
 
         public IAccountDataStore RetrieveAccountDataStore(string dataStoreType)
         {
-            if (dataStoreType.Equals(DataStoreType))
+            if (dataStoreType == DataStoreType)
             {
                 return new BackupAccountDataStore();
             }

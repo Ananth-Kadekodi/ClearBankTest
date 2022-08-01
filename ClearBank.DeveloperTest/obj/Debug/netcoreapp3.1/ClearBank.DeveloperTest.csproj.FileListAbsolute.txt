@@ -8,3 +8,9 @@ C:\tmp\ClearBankTest\ClearBank.DeveloperTest\obj\Debug\netcoreapp3.1\ClearBank.D
 C:\tmp\ClearBankTest\ClearBank.DeveloperTest\obj\Debug\netcoreapp3.1\ClearBank.DeveloperTest.csproj.CoreCompileInputs.cache
 C:\tmp\ClearBankTest\ClearBank.DeveloperTest\obj\Debug\netcoreapp3.1\ClearBank.DeveloperTest.dll
 C:\tmp\ClearBankTest\ClearBank.DeveloperTest\obj\Debug\netcoreapp3.1\ClearBank.DeveloperTest.pdb
+C:\tmp\ClearBankTest\ClearBank.DeveloperTest\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\tmp\ClearBankTest\ClearBank.DeveloperTest\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\tmp\ClearBankTest\ClearBank.DeveloperTest\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\tmp\ClearBankTest\ClearBank.DeveloperTest\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\tmp\ClearBankTest\ClearBank.DeveloperTest\bin\Debug\netcoreapp3.1\nunit.engine.core.dll
+C:\tmp\ClearBankTest\ClearBank.DeveloperTest\bin\Debug\netcoreapp3.1\testcentric.engine.metadata.dll
