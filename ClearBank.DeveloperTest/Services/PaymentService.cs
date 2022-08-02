@@ -16,9 +16,6 @@ namespace ClearBank.DeveloperTest.Services
         {
             Account account = _accountService.GetAccount(request.DebtorAccountNumber);
 
-            if (account == null)
-                return new MakePaymentResult { Success = false };
-
             var validator = _accountValidator.RetrieveInstance(request);
             var isValid = validator.IsValid(request, account);
 

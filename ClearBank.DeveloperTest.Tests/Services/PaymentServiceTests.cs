@@ -47,18 +47,6 @@ namespace ClearBank.DeveloperTest.Tests.Services
             _accountServiceMock.Verify(x => x.UpdateAccountDetails(It.IsAny<MakePaymentRequest>(), It.IsAny<Account>()), Times.Once);
             Assert.IsTrue(paymentResult.Success);
         }
-
-        [Test]
-        public void AccountNotUpdatedWithInvalidAccount()
-        {
-            var makePaymentTest = new MakePaymentRequest { DebtorAccountNumber = "ABC" };
-
-            var paymentResult = _paymentService.MakePayment(makePaymentTest);
-
-            _accountServiceMock.Verify(x => x.UpdateAccountDetails(It.IsAny<MakePaymentRequest>(), It.IsAny<Account>()), Times.Never);
-            Assert.IsFalse(paymentResult.Success);
-        }
-
     }
 
     
