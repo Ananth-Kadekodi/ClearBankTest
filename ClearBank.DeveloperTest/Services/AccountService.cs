@@ -17,14 +17,10 @@ namespace ClearBank.DeveloperTest.Services
             return _accountDataStore.GetAccount(debtorAccountNumber);
         }
 
-        public void UpdateAccount(MakePaymentRequest request, Account account)
-        {
-            _accountDataStore.UpdateAccount(account);
-        }
-
-        public void CalculateAccountBalance(MakePaymentRequest request, Account account)
+        public void UpdateAccountDetails(MakePaymentRequest request, Account account)
         {
             account.Balance -= request.Amount;
+            _accountDataStore.UpdateAccount(account);
         }
     }
 

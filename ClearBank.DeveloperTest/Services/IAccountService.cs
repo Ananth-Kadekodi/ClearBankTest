@@ -6,8 +6,7 @@ namespace ClearBank.DeveloperTest.Services
     {
         Account GetAccount(string debtorAccountNumber);
 
-        void UpdateAccount(MakePaymentRequest request, Account account);
+        void UpdateAccountDetails(MakePaymentRequest request, Account account);
 
-        void CalculateAccountBalance(MakePaymentRequest request, Account account);
     }
 }

@@ -117,3 +117,7 @@ C:\tmp\ClearBankTest\ClearBank.DeveloperTest.Tests\bin\Debug\netcoreapp3.1\runti
 C:\tmp\ClearBankTest\ClearBank.DeveloperTest.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\tmp\ClearBankTest\ClearBank.DeveloperTest.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 C:\tmp\ClearBankTest\ClearBank.DeveloperTest.Tests\obj\Debug\netcoreapp3.1\ClearBank.DeveloperTest.Tests.genruntimeconfig.cache
+C:\tmp\ClearBankTest\ClearBank.DeveloperTest.Tests\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\tmp\ClearBankTest\ClearBank.DeveloperTest.Tests\bin\Debug\netcoreapp3.1\Moq.dll
+C:\tmp\ClearBankTest\ClearBank.DeveloperTest.Tests\bin\Debug\netcoreapp3.1\System.Diagnostics.EventLog.dll
+C:\tmp\ClearBankTest\ClearBank.DeveloperTest.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
