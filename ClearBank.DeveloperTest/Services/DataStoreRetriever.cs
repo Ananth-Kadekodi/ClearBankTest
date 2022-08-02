@@ -2,7 +2,7 @@
 
 namespace ClearBank.DeveloperTest.Services
 {
-    public class RetrieveDataStore : IRetrieveDataStore
+    public class DataStoreRetriever : IRetrieveDataStore
     {
         private const string DataStoreType = "Backup";
 

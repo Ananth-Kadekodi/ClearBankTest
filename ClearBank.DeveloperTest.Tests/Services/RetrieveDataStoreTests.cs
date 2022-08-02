@@ -8,12 +8,12 @@ namespace ClearBank.DeveloperTest.Tests.Services
     [TestFixture]
     public class RetrieveDataStoreTests
     {
-        private RetrieveDataStore _retrieveDataStore;
+        private DataStoreRetriever _retrieveDataStore;
 
         [SetUp]
         public void Setup()
         {
-            _retrieveDataStore = new RetrieveDataStore();
+            _retrieveDataStore = new DataStoreRetriever();
         }
 
         [TestCase("Random", typeof(AccountDataStore))]
